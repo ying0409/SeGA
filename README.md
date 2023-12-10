@@ -13,11 +13,11 @@ Download the complete data: https://drive.google.com/drive/folders/1KSR1-5aHx33b
 
 ## Reproducing SeGA
   ### To reproduce the SeGA model, follow these steps:
-  * Encode node features with the following command
+  * Encode node features
   ```
   python preprocess-sega.py
   ```
-  * Run SeGA with the following command
+  * Run SeGA with list nodes and pretrain strategy
   ```
   python main.py --lst --pretrain
   ```
