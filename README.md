@@ -6,6 +6,10 @@ Official code and data of the paper SeGA: Preference-Aware Self-Contrastive Lear
 * We introduce preference-aware self-contrastive learning to learn user behaviors via the corresponding posts.
 * Extensive experiments on the proposed TwBNT benchmark demonstrate that SeGA significantly outperforms the state-of-the-art methods (+3.5% ∼ 27.6%).
 
+## Data
+We provide the user IDs and list IDs sampled from Twibot22 and user labels in this repo.
+Download the complete data: https://drive.google.com/drive/folders/1KSR1-5aHx33bDrnRT2QxLT20n2-vCVsH?usp=drive_link
+
 ## Reproducing SeGA
   ### To reproduce the SeGA model, follow these steps:
   * Encode node features with the following command
