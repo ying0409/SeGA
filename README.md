@@ -1,4 +1,4 @@
-# SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter (AAAI 2024)
+# SeGA (AAAI 2024)
 Official code and data of the paper SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter.
 
 ## About
