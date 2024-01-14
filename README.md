@@ -1,7 +1,7 @@
 # SeGA (AAAI 2024)
 Official code and data of the paper [SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter](https://arxiv.org/abs/2312.11553).
 
-## About
+## Overview
 * We propose SeGA to address the challenging but emerging anomalous user detection task on Twitter.
 * We introduce preference-aware self-contrastive learning to learn user behaviors via the corresponding posts.
 * Extensive experiments on the proposed TwBNT benchmark demonstrate that SeGA significantly outperforms the state-of-the-art methods (+3.5% ∼ 27.6%).
@@ -17,7 +17,10 @@ Download the complete data: https://drive.google.com/drive/folders/1KSR1-5aHx33b
   ```
   python preprocess-sega.py
   ```
-  * Run SeGA with list nodes and pretrain strategy
+  * Run SeGA with list nodes and pre-train strategy
   ```
   python main.py --lst --pretrain
   ```
+
+## Reference
+If you use our dataset or find our project is relevant to your research, please consider citing our work!
