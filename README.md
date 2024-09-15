@@ -25,14 +25,15 @@ Download the complete data: https://drive.google.com/drive/folders/1KSR1-5aHx33b
 ## Reference
 If you use our dataset or find our project is relevant to your research, please consider citing our work!
 ```bibtex
-@article{SeGA_AAAI2024,
+@inproceedings{SeGA_AAAI2024,
   author       = {Ying{-}Ying Chang and
                   Wei{-}Yao Wang and
                   Wen{-}Chih Peng},
   title        = {SeGA: Preference-Aware Self-Contrastive Learning with Prompts for
                   Anomalous User Detection on Twitter},
-  journal      = {CoRR},
-  volume       = {abs/2312.11553},
-  year         = {2023}
+  publisher = {{AAAI} Press},
+  booktitle = {{AAAI}},
+  year={2024},
+  pages={30-37} 
 }
 ```
