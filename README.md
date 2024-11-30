@@ -9,7 +9,7 @@ Official code and data of the paper [SeGA: Preference-Aware Self-Contrastive Lea
 ## Data
 We provide the user IDs and list IDs sampled from [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) and user labels in this repo.
 
-Download the sampled ID and embeddings: [https://drive.google.com/drive/folders/1KSR1-5aHx33bDrnRT2QxLT20n2-vCVsH?usp=drive_link](https://drive.google.com/drive/folders/1QtC8Zb14j-vyKQIVQyKuDB7s8mJz9ODR?usp=drive_link)
+Download the complete dataset: https://drive.google.com/drive/folders/18q4qIwOH4QfG5eoDlYMigdTi6Dze3QbA?usp=sharing
 
 ## Reproducing SeGA
   ### To reproduce the SeGA model, follow these steps:
